@@ -1,0 +1,19 @@
+.font{
+    font-family: "Almarai",sans-serif;
+    font-size: 20px;
+}
+.box{
+    background-color: #ffffff;
+    height:450px;
+    border-radius: 15px;
+    box-shadow: 1px 4px 4px 1px rgb(85,85,85,0.25);
+    overflow:auto;
+}
+.img-avatar{
+    height: 80px;
+    width: 80px;
+    border-radius: 25px;
+}
+body{
+    background-color: #eee;
+}
